@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Perpetual Calendar</string>
+    <string name="textView">Popielec</string>
+    <string name="textView2">Wielkanoc</string>
+    <string name="textView3">Boże Ciało</string>
+    <string name="textView4">Adwent</string>
+    <string name="niedziele">Niedziele</string>
+    <string name="robocze">Dni robocze</string>
+    <string name="data">%1$d.%2$d.%3$d</string>
+    <string name="data_pocz">Data początkowa</string>
+    <string name="data_kon">Data końcowa</string>
+    <string name="kalendarzowych">Dni kalendarzowych:</string>
+    <string name="roboczych">Dni roboczych:</string>
+</resources>
